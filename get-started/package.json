@@ -1,0 +1,25 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Primeiro Exemplo com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itnasantana/CursodeCypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Itnã Santana Nunes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itnasantana/CursodeCypress/issues"
+  },
+  "homepage": "https://github.com/itnasantana/CursodeCypress#readme",
+  "dependencies": {
+    "cypress": "^9.2.1"
+  }
+}
